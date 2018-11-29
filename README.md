@@ -1,2 +1,1 @@
-# coreset
-allow players  to set the server core
+a plugin for MCDaemon
